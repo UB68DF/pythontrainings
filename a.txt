@@ -1,0 +1,5 @@
+Supervalu - Done
+Recurring payments - Removed the given card from recurring payment
+Text API code - Done (waiting on API Key for short URL)
+Brokerage API - VK told he has dumped the data from API into tables in survey db..need to look into it 
+
